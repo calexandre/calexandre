@@ -1,4 +1,4 @@
-### Hi there. My name is Carlos, but most people call me Calex 👋
+### Hi there. My name is Carlos, but most people call me Calex 👋😎
 
 <!--
 **calexandre/calexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
