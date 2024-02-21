@@ -1,6 +1,6 @@
-### Hi, I'm Calex 👋😎
+# Hi, I'm Calex 👋😎
 
-![image](https://github.com/calexandre/calexandre/assets/1485193/f51f977e-4c21-4020-bf82-883c1b5ac996)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/calexandre/calexandre/main/mario.gif" width="360px"/>
 
 <!--
 **calexandre/calexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
